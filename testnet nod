@@ -1,4 +1,4 @@
-1. Install Dependecies:
+1. Install Dependecies: gm
 
    sudo apt-get -y update &&
    sudo apt-get install screen -y &&
